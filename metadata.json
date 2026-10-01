@@ -1,0 +1,6 @@
+{
+  "name": "Trueque Escolar",
+  "description": "Plataforma de intercambio escolar sin dinero para libros, uniformes y útiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
