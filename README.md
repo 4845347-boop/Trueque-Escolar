@@ -6,7 +6,7 @@
 
 ## 1. Probala ahora
 - **App publicada:** https://4845347-boop.github.io/Trueque-Escolar
-- **Código QR:** ![QR](evidencias/qr.png)
+- **Código QR:** ![QR](Evidencias/qr.png)
 - **Usuario de prueba:** No requiere inicio de sesión.
 
 ---
