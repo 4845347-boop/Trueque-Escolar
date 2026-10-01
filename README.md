@@ -14,7 +14,7 @@
 ## 2. Capturas
 | Inicio y Estado Vacío | En uso / Catálogo | Con la IA trabajando |
 |---|---|---|
-| ![](evidencias/E3-vacio.png) | ![](evidencias/E1-despues.png) | ![](evidencias/E5-app.png) |
+| ![](Evidencias/E0-inicial.png) | ![](Evidencias/E2.png) | ![](Evidencias/E5-json.png) |
 
 ---
 
